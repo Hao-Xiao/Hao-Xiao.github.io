@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Hao Xiao (肖昊)"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Suzhou"
+  avatar           : "profile.jpg"
+  bio              : "Math Majored Undergraduate"
+  location         : "Suzhou, China"
   employer         :
   googlescholar    :
-  email            :
+  email            : "xiaohao1096@163.com"
   uri              :
   bitbucket        :
   codepen          :
