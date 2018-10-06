@@ -1,6 +1,6 @@
 ---
 permalink: /notes/
-title: "`Course Wor`k"
+title: "`Course Work`"
 author_profile: true
 ---
 

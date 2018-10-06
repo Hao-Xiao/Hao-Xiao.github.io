@@ -8,16 +8,16 @@ author_profile: true
 
 ## Academic Experience
 
-* Soochow University
+* **Soochow University**
   * Suzhou, China, 9/2015-Present
   * Undergraduate, Mathematics Major, Class of 2019
   * Overall GPA: 3.94/4.00, Ranking: 2/36
   * Major GPA: 3.96/4.00, Ranking: 1/36
-* University of California, Berkeley
+* **University of California, Berkeley**
   * Berkeley, California, USA, 6/2017-8/2017
   * Summer Session, GPA: 4.0/4.0
   * Introduction to PDE (A+), Quantum Mechanics (A)
-* Peking University
+* **Peking University**
   * Beijing, China, 7/2018
   * The 1st International Undergraduate Mathematics Summer School
   * Basic Algebraic Geometry, Harmonic Analysis, Fiber Bundles & Characteristic Classes
@@ -28,13 +28,13 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 
 ## Research Experience
 
-* Fock Space Analysis
+* **Fock Space Analysis**
   * Suzhou, China, 5/2018–Present
   * Theme: Compactness of Integral Operators in Fock Space
   * Advisor: Shengzhao Hou, Professor, Soochow University
   * Status: just get started
 
-* Computational Physics
+* **Computational Physics**
   * Suzhou, China, 8/2017–Present
   * Theme: Hydrophobic Sharp Interface Computation in Solute-Solvent Environment
   * Advisor: Shenggao Zhou, Associate Professor, Soochow University
@@ -45,7 +45,7 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
     * Computed numerically the extreme and saddle interfaces in solute-solvent environment with MATLAB
     * Described how the solution interfaces and its energy would change under various solute-solvent environments
 
-* Algebraic Geometry
+* **Algebraic Geometry**
   * Suzhou, China, 5/2017–9/2018
   * Theme: A New Counterexample to Nguyen's Conjecture on Surface Fibration
   * Advisor: Cheng Gong, Associate Professor, Soochow University
@@ -66,11 +66,11 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 
 ## Leadership & Activities
 
-* Mathematics Club
+* **Mathematics Club**
   * Occupation: Club President, 09/2016–06/2017
   * Provided a platform for students who are interested in advanced topics in mathematics and computer science
   * Held several seminars on multiple topics of mathematics and computer science including algebra, number theory, projective geometry and game theory
-* Social Research: Influence that Religions have on China’s Modern Society
+* **Social Research: Influence that Religions have on China’s Modern Society**
   * Occupation: Research Head, 07/2016–08/2016
   * Interviewed abbots, tourists, and workers in several local temples and churches; read through social science papers with respect to relevant topics
   * Wrote paper from the aspects of historical reasons, China’s modern social structure, and social psychology
@@ -78,11 +78,11 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 
 ## Skills & Interests
 
-* Language
-  * Mandarin Chinese (native), Wu-Chinese (native), English (secondary)
-* Professional Qualification
+* **Language**
+  * Mandarin (native), Wu-Chinese (native), English (secondary)
+* **Professional Qualification**
   * Certificate of MsOffice and C Programming
-* Interests
+* **Interests**
   * Rubik’s Cube (best record: 12.88s), Badminton, Reading, Films
   
 ## Teaching
