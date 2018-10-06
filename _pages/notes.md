@@ -1,16 +1,13 @@
 ---
-layout: archive
-title: ""
 permalink: /notes/
+title: "`Course Wor`k"
 author_profile: true
 ---
 
-{% include base_path %}
+## Lecture Notes
 
-Lecture Notes
-======
-* [Functional Analysis](http://Hao-Xiao.github.io/files/FA.pdf), taught by Yisheng Huang in Spring 2018
-* [Fiber Bundles & Characteristic Classes](http://Hao-Xiao.github.io/files/FC.pdf), taught by Xianzhe Dai in Summer 2018
+* [Functional Analysis](http://Hao-Xiao.github.io/files/fa.pdf), taught by Yisheng Huang in Spring 2018
+* [Fiber Bundles & Characteristic Classes](http://Hao-Xiao.github.io/files/fc.pdf), taught by Xianzhe Dai in Summer 2018
 
-Reading Notes
-======
+## Homework Solutions
+* [Basic Algebraic Geometry](http://Hao-Xiao.github.io/files/ag.pdf), taught by Wei-Ping Li in Summer 2018

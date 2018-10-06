@@ -1,16 +1,13 @@
 ---
-layout: archive
-title: ""
 permalink: /cv/
+title: "`Curriculum Vitae`"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Academic Experience
-======
+## Academic Experience
+
 * Soochow University
   * Suzhou, China, 9/2015-Present
   * Undergraduate, Mathematics Major, Class of 2019
@@ -25,12 +22,12 @@ Academic Experience
   * The 1st International Undergraduate Mathematics Summer School
   * Basic Algebraic Geometry, Harmonic Analysis, Fiber Bundles & Characteristic Classes
 
-Programming Experience
-======
+## Programming Experience
+
 C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 
-Research Experience
-======
+## Research Experience
+
 * Fock Space Analysis
   * Suzhou, China, 5/2018–Present
   * Theme: Compactness of Integral Operators in Fock Space
@@ -58,8 +55,8 @@ Research Experience
     * Found a surface fibration of genus 2 with 3 singular fibers over P<sup>1</sup> within which 2 fibers are semi-stable
     * Negated Nguyen’s conjecture on surface fibration
 
-Awards
-======
+## Awards
+
 * MCM/ICM Mathematical Modeling Contest: Successful Participant, 4/2018
 * College Undergraduate Breakthroughs of Science and Technology: Second Class, 12/2017
 * College Academic Excellence Scholarship: First Class, 12/2017
@@ -67,8 +64,8 @@ Awards
 * College Academic Excellence Scholarship: First Class, 12/2016
 * China’s National College Mathematics Competition Award: Second Class, 11/2016
 
-Leadership & Activities
-======
+## Leadership & Activities
+
 * Mathematics Club
   * Occupation: Club President, 09/2016–06/2017
   * Provided a platform for students who are interested in advanced topics in mathematics and computer science
@@ -79,29 +76,17 @@ Leadership & Activities
   * Wrote paper from the aspects of historical reasons, China’s modern social structure, and social psychology
   * Awarded with College Excellent Social Research (Third Class)
 
-Skills & Interests
-======
+## Skills & Interests
+
 * Language
   * Mandarin Chinese (native), Wu-Chinese (native), English (secondary)
 * Professional Qualification
   * Certificate of MsOffice and C Programming
 * Interests
-  * Rubik’s Cube (Best Record: 12.88s), Badminton, Reading Literature, Watching Films
+  * Rubik’s Cube (best record: 12.88s), Badminton, Reading, Films
+  
+## Teaching
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
