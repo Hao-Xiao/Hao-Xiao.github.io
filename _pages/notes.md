@@ -1,12 +1,20 @@
 ---
 layout: archive
-title: "Course Notes"
+title: ""
 permalink: /notes/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Function Analysis -- Spring 2018
+Lecture Notes
 ======
-[Download notes here](http://Hao-Xiao.github.io/files/paper4.pdf)
+* [Functional Analysis](http://Hao-Xiao.github.io/files/FA.pdf), taught by Yisheng Huang in Spring 2018
+* [Fiber Bundles & Characteristic Classes](http://Hao-Xiao.github.io/files/FC.pdf), taught by Xianzhe Dai in Summer 2018
+
+*[Functional Analysis]: Cascading Style Sheets
+*[Fiber Bundles & Characteristic Classes]: Cascading Style Sheets
+
+
+Reading Notes
+======
