@@ -55,7 +55,7 @@ Research Experience
   * Status: Finished with paper submitted
   * Main achievements:
     * Grasped the theory of surface fibration and its history in the last century
-    * Found a surface fibration of genus 2 with 3 singular fibers over P1 within which 2 fibers are semi-stable
+    * Found a surface fibration of genus 2 with 3 singular fibers over P<sup>1</sup> within which 2 fibers are semi-stable
     * Negated Nguyen’s conjecture on surface fibration
 
 Awards
