@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
 
-  - title: "Notes"
-    url: /posts/
+  - title: "Course Notes"
+    url: /notes/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "Teaching Information"
     url: /teaching/

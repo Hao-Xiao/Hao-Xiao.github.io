@@ -12,15 +12,17 @@ redirect_from:
 Academic Experience
 ======
 * Soochow University
+  * Suzhou, China, 9/2015-Present
   * Undergraduate, Mathematics Major, Class of 2019
   * Overall GPA: 3.94/4.00, Ranking: 2/36
   * Major GPA: 3.96/4.00, Ranking: 1/36
 * University of California, Berkeley
-  * Summer Session, 6/2017-8/2017
-  * GPA: 4.0/4.0
+  * Berkeley, California, USA, 6/2017-8/2017
+  * Summer Session, GPA: 4.0/4.0
   * Introduction to PDE (A+), Quantum Mechanics (A)
 * Peking University
-  * The 1st International Undergraduate Mathematics Summer School, 7/2018
+  * Beijing, China, 7/2018
+  * The 1st International Undergraduate Mathematics Summer School
   * Basic Algebraic Geometry, Harmonic Analysis, Fiber Bundles & Characteristic Classes
 
 Programming Experience
@@ -30,26 +32,31 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 Research Experience
 ======
 * Fock Space Analysis
+  * Suzhou, China, 5/2018–Present
   * Theme: Compactness of Integral Operators in Fock Space
   * Advisor: Shengzhao Hou, Professor, Soochow University
-  * Status: just get started, 5/2018–Present
+  * Status: just get started
 
 * Computational Physics
+  * Suzhou, China, 8/2017–Present
   * Theme: Hydrophobic Sharp Interface Computation in Solute-Solvent Environment
   * Advisor: Shenggao Zhou, Associate Professor, Soochow University
-  * Status: be checking numerical results and writing paper, 8/2017–Present
-  * Main Achievements:
+  * Status: be checking numerical results and writing paper
+  * Main achievements:
     * Established the partial differential equation of sharp interface using variation method
     * Lowed down its dimension under cylindrical parametrization
     * Computed numerically the extreme and saddle interfaces in solute-solvent environment with MATLAB
     * Described how the solution interfaces and its energy would change under various solute-solvent environments
 
 * Algebraic Geometry
+  * Suzhou, China, 5/2017–9/2018
   * Theme: A New Counterexample to Nguyen's Conjecture on Surface Fibration
   * Advisor: Cheng Gong, Associate Professor, Soochow University
-  * Status: Finished with paper submitted, 5/2017–6/2018
-  * Main Achievements:
-    *
+  * Status: Finished with paper submitted
+  * Main achievements:
+    * Grasped the theory of surface fibration and its history in the last century
+    * Found a surface fibration of genus 2 with 3 singular fibers over P1 within which 2 fibers are semi-stable
+    * Negated Nguyen’s conjecture on surface fibration
 
 Awards
 ======
