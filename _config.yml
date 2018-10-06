@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Hao Xiao (肖昊)"
   avatar           : "profile.jpg"
-  bio              : "Math-Majored Senior Undergraduate"
+  bio              : "Math Majored Undergraduate"
   location         : "Suzhou, China"
   employer         :
   googlescholar    :
@@ -175,9 +175,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  notes:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -219,15 +216,6 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _notes
-  - scope:
-      path: ""
-      type: notes
     values:
       layout: single
       author_profile: true

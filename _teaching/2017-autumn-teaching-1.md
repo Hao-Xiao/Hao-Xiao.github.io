@@ -1,9 +1,9 @@
 ---
-title: "Methods of Mathematical Physics"
+title: "Mathematical Physics Seminar"
 collection: teaching
 type: "Graduate Seminar"
-permalink: /teaching/2017-autumn-teaching-1
-venue: "School of Mathematical Sciences, Soochow University"
+permalink: /teaching/2014-spring-teaching-1
+venue: "School of Mathematical Science, Soochow University"
 date: 2017-09-04
 location: "Suzhou, China"
 ---
