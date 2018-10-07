@@ -64,6 +64,9 @@
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/gallery/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/markdown/</loc>
 </url>
 <url>
@@ -116,6 +119,10 @@
 <url>
 <loc>http://localhost:4000/files/fc.pdf</loc>
 <lastmod>2018-10-06T05:33:40-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/fock.pdf</loc>
+<lastmod>2018-05-04T19:08:19-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/paper1.pdf</loc>

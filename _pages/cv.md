@@ -67,14 +67,16 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 ## Leadership & Activities
 
 * **Mathematics Club**
-  * Occupation: Club President, 09/2016–06/2017
+  * Soochow University, Suzhou, China, 09/2016–06/2017
+  * Occupation: Club President
   * Provided a platform for students who are interested in advanced topics in mathematics and computer science
   * Held several seminars on multiple topics of mathematics and computer science including algebra, number theory, projective geometry and game theory
 * **Social Research: Influence that Religions have on China’s Modern Society**
-  * Occupation: Research Head, 07/2016–08/2016
+  * Wuxi, China, 07/2016–08/2016
+  * Occupation: Research Head
   * Interviewed abbots, tourists, and workers in several local temples and churches; read through social science papers with respect to relevant topics
-  * Wrote paper from the aspects of historical reasons, China’s modern social structure, and social psychology
-  * Awarded with College Excellent Social Research (Third Class)
+  * Wrote report from the aspects of historical reasons, China’s modern social structure, and social psychology
+  * Awarded with College Excellent Social Research: Third Class
 
 ## Skills & Interests
 
