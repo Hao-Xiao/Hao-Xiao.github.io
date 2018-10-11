@@ -9,12 +9,12 @@ author_profile: true
 ## Academic Experience
 
 * **Soochow University**
-  * Suzhou, China, 9/2015-Present
+  * Suzhou, China, 9/2015--Present
   * Undergraduate, Mathematics Major, Class of 2019
   * Overall GPA: 3.94/4.00, Ranking: 2/36
   * Major GPA: 3.96/4.00, Ranking: 1/36
 * **University of California, Berkeley**
-  * Berkeley, California, USA, 6/2017-8/2017
+  * Berkeley, California, USA, 6/2017--8/2017
   * Summer Session, GPA: 4.0/4.0
   * Introduction to PDE (A+), Quantum Mechanics (A)
 * **Peking University**
@@ -29,13 +29,13 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 ## Research Experience
 
 * **Fock Space Analysis**
-  * Suzhou, China, 5/2018–Present
+  * Suzhou, China, 5/2018–-Present
   * Theme: Compactness of Integral Operators in Fock Space
   * Advisor: Shengzhao Hou, Professor, Soochow University
   * Status: just get started
 
 * **Computational Physics**
-  * Suzhou, China, 8/2017–Present
+  * Suzhou, China, 8/2017–-Present
   * Theme: Hydrophobic Sharp Interface Computation in Solute-Solvent Environment
   * Advisor: Shenggao Zhou, Associate Professor, Soochow University
   * Status: be checking numerical results and writing paper
@@ -46,7 +46,7 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
     * Described how the solution interfaces and its energy would change under various solute-solvent environments
 
 * **Algebraic Geometry**
-  * Suzhou, China, 5/2017–9/2018
+  * Suzhou, China, 5/2017-–7/2018
   * Theme: A New Counterexample to Nguyen's Conjecture on Surface Fibration
   * Advisor: Cheng Gong, Associate Professor, Soochow University
   * Status: Finished with paper submitted
@@ -67,12 +67,12 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 ## Leadership & Activities
 
 * **Mathematics Club**
-  * Soochow University, Suzhou, China, 09/2016–06/2017
+  * Soochow University, Suzhou, China, 09/2016–-06/2017
   * Occupation: Club President
   * Provided a platform for students who are interested in advanced topics in mathematics and computer science
   * Held several seminars on multiple topics of mathematics and computer science including algebra, number theory, projective geometry and game theory
 * **Social Research: Influence that Religions have on China’s Modern Society**
-  * Wuxi, China, 07/2016–08/2016
+  * Wuxi, China, 07/2016–-08/2016
   * Occupation: Research Head
   * Interviewed abbots, tourists, and workers in several local temples and churches; read through social science papers with respect to relevant topics
   * Wrote report from the aspects of historical reasons, China’s modern social structure, and social psychology
