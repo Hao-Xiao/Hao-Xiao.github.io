@@ -13,5 +13,6 @@ author_profile: true
 ## Research Notes
 * [Fock Space Analysis](http://Hao-Xiao.github.io/files/fock.pdf), Autumn 2018
 
-## Homework Solutions
-* [Basic Algebraic Geometry](http://Hao-Xiao.github.io/files/AG.pdf), Summer 2018
+## Homework & Exam Solutions
+* [Fiber Bundles & Characteristic Classes](http://Hao-Xiao.github.io/files/FC_solu.pdf), Summer 2018
+* [Basic Algebraic Geometry](http://Hao-Xiao.github.io/files/AG_solu.pdf), Summer 2018
