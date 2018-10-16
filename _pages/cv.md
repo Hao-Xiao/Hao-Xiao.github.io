@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Academic Experience
-
+**Academic Experience**
+----------------------------------------------------------------------------------------
 * **Soochow University**
   * Suzhou, China, 9/2015--Present
   * Undergraduate, Mathematics Major, Class of 2019
@@ -23,12 +23,12 @@ author_profile: true
   * The 1st International Undergraduate Mathematics Summer School
   * Basic Algebraic Geometry, Harmonic Analysis, Fiber Bundles & Characteristic Classes
 
-## Programming Experience
-
+**Programming Experience**
+----------------------------------------------------------------------------------------
 C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 
-## Research Experience
-
+**Research Experience**
+----------------------------------------------------------------------------------------
 * **Fock Space Analysis**
   * Suzhou, China, 5/2018–-Present
   * Theme: Compactness of Integral Operators in Fock Space
@@ -56,8 +56,8 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
     * Found a surface fibration of genus 2 with 3 singular fibers over P<sup>1</sup> within which 2 fibers are semi-stable
     * Negated Nguyen’s conjecture on surface fibration
 
-## Awards
-
+**Awards**
+----------------------------------------------------------------------------------------
 * MCM/ICM Mathematical Modeling Contest: Successful Participant, 4/2018
 * College Undergraduate Breakthroughs of Science and Technology: Second Class, 12/2017
 * College Academic Excellence Scholarship: First Class, 12/2017
@@ -66,8 +66,8 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 * China’s National College Mathematics Competition Award: Second Class, 11/2016
 * Fudan University International Model United Nations Conference: Best Presentation, 7/2014
 
-## Leadership & Activities
-
+**Leadership & Activities**
+----------------------------------------------------------------------------------------
 * **Undergraduate Mathematics Center**
   * Soochow University, Suzhou, China, 09/2016–-06/2017
   * Occupation: Center President
@@ -86,8 +86,8 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
   * Fudan University International Model United Nations Conference, UNICEF Executive Board: Sudan Delegate, 7/2014
   * Nanking National Model United Nations Conference for High School Students, Human Rights Council: Malaysia Delegate, 7/2014
 
-## Skills & Interests
-
+**Skills & Interests**
+----------------------------------------------------------------------------------------
 * **Language**
   * Mandarin (native), Wu-Chinese (native), English (secondary)
 * **Professional Qualification**
@@ -95,8 +95,8 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 * **Interests**
   * Rubik’s Cube (best record: 12.88s), Badminton, Reading, Films
   
-## Teaching
-
+**Teaching**
+----------------------------------------------------------------------------------------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
