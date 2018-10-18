@@ -56,6 +56,12 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
     * Found a surface fibration of genus 2 with 3 singular fibers over P<sup>1</sup> within which 2 fibers are semi-stable
     * Negated Nguyen’s conjecture on surface fibration
 
+## Teaching
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Awards
 
 * MCM/ICM Mathematical Modeling Contest: Successful Participant, 4/2018
@@ -94,9 +100,3 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
   * Certificate of MsOffice and C Programming
 * **Interests**
   * Rubik’s Cube (best record: 12.88s), Badminton, Chinese Literature, Buddhist Philosophy
-  
-## Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
