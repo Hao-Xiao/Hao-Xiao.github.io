@@ -5,9 +5,10 @@ author_profile: true
 ---
 
 ## Soochow University
-* Math Faculty
+* Math Administrative Department
 <br/><img src='/images/math1.jpeg'>
 --- Photoed by Ying Zhang
+* Computational Math Department
 <br/><img src='/images/math2.jpeg'>
 --- Photoed by Ying Zhang
 * Cats
