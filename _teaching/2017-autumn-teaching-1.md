@@ -8,13 +8,4 @@ date: 2017-09-04
 location: "Suzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Download seminar description and syllabus here](https://Hao-Xiao.github.io/files/syllabus.pdf)
