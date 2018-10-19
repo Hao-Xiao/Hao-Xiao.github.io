@@ -17,8 +17,8 @@
 <lastmod>2015-08-14T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/publication/2018-paper-1</loc>
-<lastmod>2018-10-18T19:41:39-07:00</lastmod>
+<loc>http://localhost:4000/publications/2018-paper-1/</loc>
+<lastmod>2018-10-18T20:20:09-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talks/2012-03-01-talk-1</loc>
@@ -71,6 +71,9 @@
 <loc>http://localhost:4000/page-archive/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/papers/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/portfolio/</loc>
 </url>
 <url>
@@ -87,6 +90,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/talks/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
@@ -126,7 +132,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/Nguyen.pdf</loc>
-<lastmod>2018-10-18T19:31:50-07:00</lastmod>
+<lastmod>2018-10-18T19:47:10-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/fock.pdf</loc>

@@ -9,7 +9,7 @@ author_profile: true
 
 ## Academic Experience
 
-* **Soochow University**
+* **[Soochow University](http://www.suda.edu.cn)**
   * Suzhou, China, 9/2015--Present
   * Undergraduate, Mathematics Major, Class of 2019
   * Overall GPA: 3.94/4.00, Ranking: 2/36
@@ -57,14 +57,16 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
     * Negated Nguyen’s conjecture on surface fibration
 
 ## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* A New Counterexample to Nguyen’s Conjecture on Surface Fibration, 2018
+  * This paper is on on surface fibration and a new counterexample, where the fibration is of genus 2, negating Nguyen’s conjecture is constructed.
+  * To appear in _Journal of Jiangsu Normal University (Natural Science Edition)_
+  * [Download Paper Abstract Here](http://Hao-Xiao.github.io/files/Nguyen.pdf)
 
 ## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Methods of Mathematical Physics Seminar, Fall 2017
+  * Graduate Seminar, School of Mathematical Sciences, Soochow University
+  * Graduate seminar follows _Methods of Mathematical Physics_ by Qiao Gu.
+  * [Download Seminar Description and Syllabus Here](https://Hao-Xiao.github.io/files/syllabus.pdf)
 
 ## Awards
 
