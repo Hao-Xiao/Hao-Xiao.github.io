@@ -20,7 +20,7 @@ author_profile: true
   * Introduction to PDE (A+), Quantum Mechanics (A)
 * **Peking University**
   * Beijing, China, 7/2018
-  * The 1st International Undergraduate Mathematics Summer School
+  * [The 1st International Undergraduate Mathematics Summer School](http://www.math.pku.edu.cn/misc/puremath/summerschool/)
   * Basic Algebraic Geometry, Harmonic Analysis, Fiber Bundles & Characteristic Classes
 
 ## Programming Experience
@@ -56,8 +56,12 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
     * Found a surface fibration of genus 2 with 3 singular fibers over P<sup>1</sup> within which 2 fibers are semi-stable
     * Negated Nguyen’s conjecture on surface fibration
 
-## Teaching
+## Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

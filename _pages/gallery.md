@@ -25,7 +25,7 @@ author_profile: true
 --- Photoed by Ying Zhang
 <br/><img src='/images/scene2.jpeg'>
 --- Photoed by Ying Zhang
-* Cat
+* Cats
 <br/><img src='/images/cat1.jpeg'>
 --- Photoed by Hao Xiao
 <br/><img src='/images/cat2.jpeg'>
