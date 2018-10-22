@@ -96,7 +96,7 @@ C/C++, LaTeX, MATLAB, Mathematica, LINGO, R
 * **Model United Nations Conferences**
   * Fudan University International Model United Nations Conference, Historical General Assembly: Ghana Delegate, 7/2015
   * Fudan University International Model United Nations Conference, UNICEF Executive Board: Sudan Delegate, 7/2014
-  * Nanking National Model United Nations Conference for High School Students, Human Rights Council: Malaysia Delegate, 7/2013
+  * Nanking National Model United Nations Conference for High School Students, Human Rights Council: Malaysia Delegate, 2/2013
 
 ## Skills & Interests
 

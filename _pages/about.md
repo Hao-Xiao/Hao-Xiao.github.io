@@ -16,9 +16,8 @@ My name is Hao Xiao (肖昊) and currently I am a math-majored senior undergradu
 
 What Am I Doing Currently?
 ------
-1. Applying pure math graduate program of US universities/colleges.
+1. Applying pure math graduate program.
 2. Struggling for two researches (refer to the research section in my [CV](http://Hao-Xiao.github.io/cv/) for details) and following my reading schedule (see below).
-3. Considering a problem, Does There Exists a Generalized Shifting Principle?, raised while writing a review on topological density.
 
 What Is My Career Goal and Plan?
 ------
