@@ -16,8 +16,14 @@ My name is Hao Xiao (肖昊) and currently I am a math-majored senior undergradu
 
 What Am I Doing Currently?
 ------
-1. Applying pure math graduate program.
+1. Applying pure math or mathematical physics graduate program.
 2. Struggling for two researches (refer to the research section in my [CV](http://Hao-Xiao.github.io/cv/) for details) and following my reading schedule (see below).
+
+Why Do I Choose Math Mathematics?
+------
+Literature was my favorite. My mother reads one book for every two or three weeks since I was able to remember things (but I do not know when she actually started the routine), and it is astonishing that she keeps it even nowadays. She reads love stories, social comments, popular novels, and sometimes serious literature. Recently she is on _Shiroi Kyotō (白い巨塔)_ by Toyoko Yamasaki. As a kid, I initially just copied what the adults were doing before truly understanding the content of the books and the meaning of doing so. One or two years from single imitating, the real and serious appreciation for literature forms. This favoritism is also partially influenced by my grandparents. I wrote over ten thousands of pages when in middle school. I tried short novels, poems, and essays.
+
+The turning point was Euclid's _Elements_. Euclidean geometry is taught in my middle school with the focus mainly on problem solving. At the end the course, you probably attains a fancy grade in the exam but fails to understand what axioms are, how axiomatic system works, why Euclid's construction is important, and how it influences mathematics for centuries. I searched on the Internet for the origin and history of Euclidean geometry and then I knew Euclid's _Elements_. The first four chapters entirely reshaped my mind. The charm of axiomatic system and the beauty of logical reasoning within this framework are fascinating enough to a middle school guy. Hereafter, I switched to mathematics (and physics partially) and kept pursuing it till now.
 
 What Is My Career Goal and Plan?
 ------
@@ -28,5 +34,4 @@ I am not very sure about the long term plan and goal since pure mathematics and 
 | Fall 2018        | _Algebraic Topology_ (Allen Hatcher), _An Introduction to Differentiable Manifold and Riemann Geometry_ (William Boothby)   |
 | Winter 2019      | _Lie Algebra and Representation Theory_ (James Humphreys), _Harmonic Analysis_ (Elias Stein)|
 | Spring 2019      | _Commutative Algebra_ (Hideyuki Matsumura), _Algebraic Geometry and Arithmetic Curves_ (Qing Liu), _Classical Field Theory_ (Lev Landau)|
-
 
