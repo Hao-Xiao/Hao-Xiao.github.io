@@ -19,7 +19,7 @@ What Am I Doing Currently?
 1. Applying pure math or mathematical physics graduate program.
 2. Struggling for two researches (refer to the research section in my [CV](http://Hao-Xiao.github.io/cv/) for details) and following my reading schedule (see below).
 
-Why Do I Choose Math Mathematics?
+Why Do I Choose Mathematics?
 ------
 Literature was my favorite. My mother reads one book for every two or three weeks since I was able to remember things (but I do not know when she actually started the routine), and it is astonishing that she keeps it even nowadays. She reads love stories, social comments, popular novels, and sometimes serious literature. Recently she is on _Shiroi Kyotō (白い巨塔)_ by Toyoko Yamasaki. As a kid, I initially just copied what the adults were doing before truly understanding the content of the books and the meaning of doing so. One or two years from single imitating, the real and serious appreciation for literature forms. This favoritism is also partially influenced by my grandparents. I wrote over ten thousands of pages when in middle school. I tried short novels, poems, and essays.
 
